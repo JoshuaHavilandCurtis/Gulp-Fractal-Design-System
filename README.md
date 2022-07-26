@@ -1,5 +1,7 @@
 # Design System based on Fractal
 
+### Node Verison: v12.22.9
+
 ### Installing
 
 - Install Fractal CLI globally: `npm i -g @frctl/fractal`
@@ -8,6 +10,7 @@
 - Run Build in the CLI: `gulp build`
 
 ### TODO
+- [ ] Upgrade node verison and fix engineStrict
 - [x] Learning how to use Fractal
 - [x] Design System Scaffolding
 - [x] Initial docs
