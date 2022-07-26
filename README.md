@@ -4,7 +4,8 @@
 
 - Install Fractal CLI globally: `npm i -g @frctl/fractal`
 - Install all node packages: `npm install`
-
+- Run Gulp in the CLI: `gulp dev`
+- Run Build in the CLI: `gulp build`
 
 ### TODO
 - [x] Learning how to use Fractal
